@@ -34,7 +34,7 @@ fields_of_interests:
   [
     "Mobile Development",
     "Web Development",
-    "Web3 evelopment",
+    "Web3 Development",
     "Machine Learning",
   ]
 technical_background:
