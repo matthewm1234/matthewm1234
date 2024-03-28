@@ -28,7 +28,7 @@ education:
     "Self-Taught Developer and Designer",
     "Bachelor's in Computer Science",
   ]
-company: Soulber
+company: Apes Innovation
 
 fields_of_interests:
   [
