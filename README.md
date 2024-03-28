@@ -21,11 +21,11 @@
 
 ```yaml
 name: Matthew Monday
-located_in: Lagos, Nigeria
+location: Lagos, Nigeria
 current_job: Mobile Developer
 education:
   [
-    "Self-Taught Developer and Designer",
+    "Self-Taught Developer",
     "Bachelor's in Computer Science",
   ]
 company: Apes Innovation
