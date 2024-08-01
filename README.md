@@ -39,6 +39,7 @@ technical_background:
     "Mobile Developer - React Native"
     "Frontend Developer - React"
     "Full Stack Developer - Laravel"
+    "Backend - Python"
     "Android Developer - Java/Kotlin"
   ]
   
