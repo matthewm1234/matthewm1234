@@ -19,7 +19,7 @@
 ```yaml
 name: Matthew Monday
 location: Lagos, Nigeria
-current_job: Mobile Developer
+current_job: Fullstack developer (Mobile and Web)
 education:
   [
     "Self-Taught Developer",
